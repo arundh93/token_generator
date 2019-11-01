@@ -1,0 +1,5 @@
+name: token
+channels:
+  - conda-forge
+dependencies:
+  - flask
